@@ -1,0 +1,11 @@
+html, body {
+  margin: 0;
+}
+
+#particle-canvas {
+  width: 100%;
+  height: 100vh;
+  background: linear-gradient(to bottom, #572258 0%,rgb(60, 10, 60) 100%);
+  vertical-align: middle;
+  transform:rotateX(180deg)
+}
